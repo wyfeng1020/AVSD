@@ -18,11 +18,11 @@ The dataset contains a total of 10 diverse sequences, 525 images, of which 102 i
 
 ### Download
 
-**Representative examples:** [GoogleDrive](https://drive.google.com/file/d/1GnCoeg-qwfJgLCXCFCAXhjfx7cY2RGvb/view?usp=sharing)  [BaiduYunPan](https://pan.baidu.com/s/1NzcOnr68YUB8e9YvDTxVGQ)
+**Representative examples:** [[GoogleDrive]](https://drive.google.com/file/d/1GnCoeg-qwfJgLCXCFCAXhjfx7cY2RGvb/view?usp=sharing)  [[BaiduYunPan]](https://pan.baidu.com/s/1NzcOnr68YUB8e9YvDTxVGQ)
 
-**Full Resolution:** _(coming soon...)_
+**Full Resolution:** _coming soon..._
 
-**Half Resolution:** _(coming soon...)_
+**Half Resolution:** _coming soon..._
 
 ### Contact
 
