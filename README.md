@@ -4,7 +4,7 @@ Video segmentation refers to the task of partitioning pixels that exhibit homoge
 
 ### Description
 <div>
-<img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_0351.bmp" style="zoom:50%" alt="ImgData_0351">
+<img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_0351.bmp" style="zoom:25%" alt="ImgData_0351">
 <img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_1702.bmp" width = "200" height = "150" alt="ImgData_1702">
 <img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_4006.bmp" width = "200" height = "150" alt="ImgData_4006">  
 </div>
