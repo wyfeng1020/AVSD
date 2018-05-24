@@ -4,27 +4,17 @@ Video segmentation refers to the task of partitioning pixels that exhibit homoge
 
 ### Description
 <div>
-<img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_0351.bmp" width = "300" height = "200" alt="ImgData_0351">
-<img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_1702.bmp" width = "300" height = "200" alt="ImgData_1702">
-<img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_4006.bmp" width = "300" height = "200" alt="ImgData_4006">  
+<img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_0351.bmp" width = "200" height = "150" alt="ImgData_0351">
+<img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_1702.bmp" width = "200" height = "150" alt="ImgData_1702">
+<img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_4006.bmp" width = "200" height = "150" alt="ImgData_4006">  
 </div>
 <div>
-<img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_0351_gt.bmp" width = "300" height = "200" alt="image_0351_gt">
-<img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_1702_gt.bmp" width = "300" height = "200" alt="image_1702_gt"
-<img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_4006_gt.bmp" width = "300" height = "200" alt="ImgData_4006_gt"
+<img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_0351_gt.bmp" width = "200" height = "150" alt="image_0351_gt">
+<img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_1702_gt.bmp" width = "200" height = "150" alt="image_1702_gt"
+<img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_4006_gt.bmp" width = "200" height = "150" alt="ImgData_4006_gt"
 </div>
 
 The dataset contains a total of 10 diverse sequences, 525 images, of which 102 images are annotated. The images are all captured at 12 fps and 1280*1024 spatial resolution. The images contain a variety of “objects,” such as man-made and natural scene elements, of which the appearance varies across sequences and comprises homogenous and textured parts. We select 6 sequences to be annotated by experts with pixel-wise labels for about every fourth frame. The primary subjects of the aerial videos are mainly various land surfaces and we define six most common types: bare land, grassland, forest, building, road, and vehicles.
-
-```markdown
-Syntax highlighted code block
-# Header 1
-## Header 2
-- Bulleted
-1. Numbered
-**Bold** and _Italic_ and `Code` text
-[Link](url) and ![Image](src)
-```
 
 ### Download
 
