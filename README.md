@@ -4,7 +4,10 @@ Video segmentation refers to the task of partitioning pixels that exhibit homoge
 
 ### Description
 
-Images:
+![image](https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_0351.bmp)
+![image](https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_0351_gt.bmp)
+![image](https://github.com/wyfeng1020/AVSD/blob/master/examples/ImgData_1702.bmp)
+![image](https://github.com/wyfeng1020/AVSD/blob/master/examples/ImgData_1702_gt.bmp)
 
 The dataset contains a total of 10 diverse sequences, 525 images, of which 102 images are annotated. The images are all captured at 12 fps and 1280*1024 spatial resolution. The images contain a variety of “objects,” such as man-made and natural scene elements, of which the appearance varies across sequences and comprises homogenous and textured parts. We select 6 sequences to be annotated by experts with pixel-wise labels for about every fourth frame. The primary subjects of the aerial videos are mainly various land surfaces and we define six most common types: bare land, grassland, forest, building, road, and vehicles.
 
@@ -20,11 +23,11 @@ Syntax highlighted code block
 
 ### Download
 
-**Representative examples:**
+**Representative examples:** [GoogleDrive](https://drive.google.com/file/d/1GnCoeg-qwfJgLCXCFCAXhjfx7cY2RGvb/view?usp=sharing)  [BaiduYunPan](https://pan.baidu.com/s/1NzcOnr68YUB8e9YvDTxVGQ)
 
-**Full Resolution:** (coming soon...)
+**Full Resolution:** _(coming soon...)_
 
-**Half Resolution:** (coming soon...)
+**Half Resolution:** _(coming soon...)_
 
 ### Contact
 
