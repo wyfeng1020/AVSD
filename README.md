@@ -3,12 +3,12 @@
 Video segmentation refers to the task of partitioning pixels that exhibit homogeneous appearance and motion into coherent spatial-temporal groups. Aerial video segmentation have a wide variety of practical applications, such as landscape detection and recognition, ground scene classification, and urgent safe landing. However, few works about video segmentation for higher-altitude aerial platforms are developed in the current literatures due to the lack of common evaluation dataset. Thus, we assemble a new evaluation dataset, which exhibits the simple and challenging conditions of video complexity and motion, for the video segmentation of aerial applications.
 
 ### Description
-<div>
+<div align=center>
 <img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_0351.bmp" width = "240" height = "180" alt="ImgData_0351">
 <img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_1702.bmp" width = "240" height = "180" alt="ImgData_1702">
 <img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_4006.bmp" width = "240" height = "180" alt="ImgData_4006">  
 </div>
-<div>
+<div align=center>
 <img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_0351_gt.bmp" width = "240" height = "180" alt="ImgData_0351_gt">
 <img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_1702_gt.bmp" width = "240" height = "180" alt="ImgData_1702_gt">
 <img src="https://raw.githubusercontent.com/wyfeng1020/AVSD/master/examples/ImgData_4006_gt.bmp" width = "240" height = "180" alt="ImgData_4006_gt">
