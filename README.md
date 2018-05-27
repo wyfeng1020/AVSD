@@ -16,12 +16,10 @@
 
   The dataset contains a total of 10 diverse sequences, 525 images, of which 102 images are annotated. The images are all captured at 12 fps and 1280*1024 spatial resolution. The images contain a variety of “objects,” such as man-made and natural scene elements, of which the appearance varies across sequences and comprises homogenous and textured parts. We select 6 sequences to be annotated by experts with pixel-wise labels for about every fourth frame. The primary subjects of the aerial videos are mainly various land surfaces and we define six most common types: bare land, grassland, forest, building, road, and vehicles.
 
-  Each folder contains video sequence with same ground scene. For each image, the segmentations are stored in two different files: bmp file and mat file.
-  
-  For each image there are the following files:
-  - bmp folder: *.bmp, initial video images;
-  - gt_rgb folder: *.bmp, segmentation results with color pattern;
-  - gt_mat folder: *.mat, segmentation results with index pattern;
+  Each folder contains video sequence with same ground scene. For each sequence, there are following files:
+  - bmp folder: *.bmp, initial video image;
+  - gt_rgb folder: *.bmp, RGB segmentation masks;
+  - gt_mat folder: *.mat, index segmentation masks;
 
 ### Download
 **Representative examples:** [[GoogleDrive](https://drive.google.com/file/d/1GnCoeg-qwfJgLCXCFCAXhjfx7cY2RGvb/view?usp=sharing)]       [[BaiduYunPan](https://pan.baidu.com/s/1NzcOnr68YUB8e9YvDTxVGQ)]
