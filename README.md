@@ -22,11 +22,9 @@
   - gt_mat folder: *.mat, index segmentation masks;
 
 ### Download
-**Representative examples:** [[GoogleDrive](https://drive.google.com/file/d/1GnCoeg-qwfJgLCXCFCAXhjfx7cY2RGvb/view?usp=sharing)]       [[BaiduYunPan](https://pan.baidu.com/s/1NzcOnr68YUB8e9YvDTxVGQ)]
+**Representative examples:** [[GoogleDrive](https://drive.google.com/open?id=1GnCoeg-qwfJgLCXCFCAXhjfx7cY2RGvb)]       [[BaiduYunPan](https://pan.baidu.com/s/1yC1ggKRJD0WjmlzY1OcQVw)]
 
-**Full Resolution:** _coming soon..._
-
-**Half Resolution:** _coming soon..._
+**Full Resolution:** [[GoogleDrive](https://drive.google.com/open?id=1SqkaDPmGxs5YzKSZBHlDszaFMQZkVaJd)]       [[BaiduYunPan](https://pan.baidu.com/s/1gx6BGTEpPFgb4M8Hck8L8A)]
 
 ### Contact
   If you have any question, please contact Yufeng Wang (wyfeng@buaa.edu.cn).
