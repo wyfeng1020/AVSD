@@ -17,12 +17,12 @@
   The dataset consists of 10 diverse sequences and total 525 images, of which 131 images are annotated with pixel-wise segmentation labels. The videos are all captured at 12 fps and 1280*1024 spatial resolution. The images contain a variety of man-made and natural “objects” whose appearance varies across sequences and comprises homogenous and textured parts. We select 6 sequences to be annotated by experts. The primary subjects of the aerial videos are mainly various land surfaces and we define six most common types: bare land, grassland, forest, building, road, and vehicles.
 
   Each folder contains video sequence with same ground scene. For each sequence, there are following files:
-    - bmp folder: *.bmp, initial video image;
-    - gt_rgb folder: *.bmp, RGB segmentation masks for visualization;
-    - gt_label folder: *.bmp, index segmentation masks;
-    - gt_mat folder: *.mat, index segmentation masks, 
-                     - groundTruth{1,1}.Segmentation,
-                     - groundTruth{1,1}.Boundaries.
+  - bmp folder: *.bmp, initial video image;
+  - gt_rgb folder: *.bmp, RGB segmentation masks for visualization;
+  - gt_label folder: *.bmp, index segmentation masks;
+  - gt_mat folder: *.mat, index segmentation masks, 
+                   - groundTruth{1,1}.Segmentation,
+                   - groundTruth{1,1}.Boundaries.
 
 ### Download
 **Representative examples:** [[GoogleDrive](https://drive.google.com/open?id=1GnCoeg-qwfJgLCXCFCAXhjfx7cY2RGvb)]       [[BaiduYunPan](https://pan.baidu.com/s/1yC1ggKRJD0WjmlzY1OcQVw)]
@@ -30,7 +30,7 @@
 **Full Resolution:** [[GoogleDrive](https://drive.google.com/open?id=1SqkaDPmGxs5YzKSZBHlDszaFMQZkVaJd)]       [[BaiduYunPan](https://pan.baidu.com/s/1gx6BGTEpPFgb4M8Hck8L8A)]
 
 ### Contact
-  If you have any question, please contact [Yufeng Wang (wyfeng@buaa.edu.cn)].
+  If you have any question, please contact Yufeng Wang (wyfeng@buaa.edu.cn).
 
 ### Citation
   If you find this dataset useful, please cite the following publication:
