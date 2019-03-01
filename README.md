@@ -20,8 +20,8 @@
   - bmp folder: *.bmp, initial video image;
   - gt_rgb folder: *.bmp, RGB segmentation masks for visualization;
   - gt_label folder: *.bmp, index segmentation masks;
-  - gt_mat folder: *.mat, index segmentation masks, 
-                   - groundTruth{1,1}.Segmentation,
+  - gt_mat folder: *.mat, index segmentation masks,  
+                   - groundTruth{1,1}.Segmentation,  
                    - groundTruth{1,1}.Boundaries.
 
 ### Download
