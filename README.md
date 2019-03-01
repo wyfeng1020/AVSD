@@ -18,11 +18,9 @@
 
   Each folder contains video sequence with same ground scene. For each sequence, there are following files:
   - bmp folder: *.bmp, initial video image;
-  - gt_rgb folder: *.bmp, RGB segmentation masks for visualization;
-  - gt_label folder: *.bmp, index segmentation masks;
-  - gt_mat folder: *.mat, index segmentation masks,  
-                   - groundTruth{1,1}.Segmentation,  
-                   - groundTruth{1,1}.Boundaries.
+  - gt_rgb folder: *.bmp, RGB masks of segmentation for visualization;
+  - gt_label folder: *.bmp, index masks of segmentation ;
+  - gt_mat folder: *.mat, index masks of segmentation .
 
 ### Download
 **Representative examples:** [[GoogleDrive](https://drive.google.com/open?id=1GnCoeg-qwfJgLCXCFCAXhjfx7cY2RGvb)]       [[BaiduYunPan](https://pan.baidu.com/s/1yC1ggKRJD0WjmlzY1OcQVw)]
